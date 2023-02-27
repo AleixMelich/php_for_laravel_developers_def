@@ -2,7 +2,5 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/php_for_laravel_developers_def" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/php_for_laravel_developers_def_AMELICH" vcs="Git" />
   </component>
 </project>
